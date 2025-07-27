@@ -1,0 +1,6 @@
+{
+  "name": "Excel Analytics Platform",
+  "description": "A powerful full-stack platform built with Next.js for uploading any Excel file (.xls or .xlsx), analyzing the data, and generating interactive 2D charts. The platform integrates AI to provide smart insights from the uploaded data.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
